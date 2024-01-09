@@ -295,3 +295,30 @@
     margin-top: 2px;
 }
 
+.about-section{
+    padding: 130px;
+    border-radius: 10px;
+    background: #e0b392;
+    margin-top: 70px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    /* color: rgba(7, 2, 17, 0.60); */
+}
+.about-description{
+    color: #5e5656;
+}
+.subscription{
+    background: rgb(253, 126, 7);
+    color: #FFF;
+    width: 160px;
+    height: 45px;
+    flex-shrink: 0;
+    font-size: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+.input{
+    width: 400px;
+    height: 42px;
+    border-radius: 10px 10px 10px 10px;
+}
